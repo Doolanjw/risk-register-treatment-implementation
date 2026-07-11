@@ -63,5 +63,5 @@ ZITADEL IdP, Grafana Cloud Logs, PowerShell, Windows Defender, BitLocker, Window
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/jonathanwdoolangrc)
+- [LinkedIn](https://www.linkedin.com/in/jonathanwdoolan)
 - Email: doolanjw0@gmail.com
